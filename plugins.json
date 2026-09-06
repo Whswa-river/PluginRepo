@@ -11,8 +11,7 @@
         "TestingDalamudApiLevel": 15,
         "Tags": [
             "RB",
-            "riverbox",
-            "大海"
+            "riverbox"
         ],
         "IconUrl": "https://raw.githubusercontent.com/Whswa-river/River/main/RiverBox/icon.png",
         "DownloadLinkInstall": "https://github.com/Whswa-river/River/releases/download/1.0.8.0/RiverBox.zip",
@@ -31,8 +30,8 @@
         "TestingDalamudApiLevel": 15,
         "Tags": [
             "狩猎",
-            "自动化",
-            "导航"
+            "自动狩猎",
+            "自动跟车"
         ],
         "IconUrl": "https://raw.githubusercontent.com/Whswa-river/River/main/AutomaticHunting/icon.png",
         "DownloadLinkInstall": "https://github.com/Whswa-river/River/releases/download/1.0.0.0/AutomaticHunting.zip",
