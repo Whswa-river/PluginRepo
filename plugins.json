@@ -15,9 +15,9 @@
             "riverbox"
         ],
         "IconUrl": "https://raw.githubusercontent.com/Whswa-river/River/main/RiverBox/icon.png",
-        "DownloadLinkInstall": "https://github.com/Whswa-river/River/releases/download/1.0.8.0/RiverBox.zip",
-        "DownloadLinkTesting": "https://github.com/Whswa-river/River/releases/download/1.0.8.0/RiverBox.zip",
-        "DownloadLinkUpdate": "https://github.com/Whswa-river/River/releases/download/1.0.8.0/RiverBox.zip"
+        "DownloadLinkInstall": "https://github.com/Whswa-river/River/releases/download/RiverBox-1.0.8.0/RiverBox.zip",
+        "DownloadLinkTesting": "https://github.com/Whswa-river/River/releases/download/RiverBox-1.0.8.0/RiverBox.zip",
+        "DownloadLinkUpdate": "https://github.com/Whswa-river/River/releases/download/RiverBox-1.0.8.0/RiverBox.zip"
     },
     {
         "Author": "AutoHunt",
@@ -33,9 +33,9 @@
             "自动跟车"
         ],
         "IconUrl": "https://raw.githubusercontent.com/Whswa-river/River/main/AutomaticHunting/icon.png",
-        "DownloadLinkInstall": "https://github.com/Whswa-river/River/releases/download/1.1.1.0/AutomaticHunting.zip",
-        "DownloadLinkTesting": "https://github.com/Whswa-river/River/releases/download/1.1.1.0/AutomaticHunting.zip",
-        "DownloadLinkUpdate": "https://github.com/Whswa-river/River/releases/download/1.1.1.0/AutomaticHunting.zip"
+        "DownloadLinkInstall": "https://github.com/Whswa-river/River/releases/download/AutomaticHunting-1.1.1.0/AutomaticHunting.zip",
+        "DownloadLinkTesting": "https://github.com/Whswa-river/River/releases/download/AutomaticHunting-1.1.1.0/AutomaticHunting.zip",
+        "DownloadLinkUpdate": "https://github.com/Whswa-river/River/releases/download/AutomaticHunting-1.1.1.0/AutomaticHunting.zip"
     },
     {
         "Author": "River",
