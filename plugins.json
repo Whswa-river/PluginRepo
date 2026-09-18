@@ -62,7 +62,7 @@
         "InternalName": "ArankScanner",
         "Description": "在当前地图依次 TP 到覆盖点位，遍历游戏对象表识别 A 级恶名精英刷新情况，并在聊天栏输出结果。",
         "Punchline": "自动扫描 A 怪刷新位置",
-        "AssemblyVersion": "0.0.2.3",
+        "AssemblyVersion": "0.0.2.4",
         "RepoUrl": "https://github.com/Whswa-river/River",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 15,
@@ -78,8 +78,8 @@
             "hunting"
         ],
         "IconUrl": "https://raw.githubusercontent.com/Whswa-river/River/main/ArankScanner/icon.png",
-        "DownloadLinkInstall": "https://github.com/Whswa-river/River/releases/download/ArankScanner-0.0.2.3/ArankScanner.zip",
-        "DownloadLinkTesting": "https://github.com/Whswa-river/River/releases/download/ArankScanner-0.0.2.3/ArankScanner.zip",
-        "DownloadLinkUpdate": "https://github.com/Whswa-river/River/releases/download/ArankScanner-0.0.2.3/ArankScanner.zip"
+        "DownloadLinkInstall": "https://github.com/Whswa-river/River/releases/download/ArankScanner-0.0.2.4/ArankScanner.zip",
+        "DownloadLinkTesting": "https://github.com/Whswa-river/River/releases/download/ArankScanner-0.0.2.4/ArankScanner.zip",
+        "DownloadLinkUpdate": "https://github.com/Whswa-river/River/releases/download/ArankScanner-0.0.2.4/ArankScanner.zip"
     }
 ]
