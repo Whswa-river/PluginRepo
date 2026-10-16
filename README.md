@@ -7,7 +7,7 @@ River 的 Dalamud 插件合集仓库。
 | 插件 | 描述 | 版本 |
 |------|------|------|
 | RiverBox | RiverBox 自用插件 | 1.0.11.1 |
-| AutomaticHunting | 自动狩猎跟车 | 2.2.62.0 |
+| AutomaticHunting | 自动狩猎跟车 | 2.2.67.0 |
 | AllPotPredictor | 全大区魔法罐预测 | 1.4.2.0 |
 
 ## 安装方法
